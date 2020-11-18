@@ -1,2 +1,3 @@
-# comet
-COntinuum MEchanics Toolkik
+# COMET 
+
+COntinuum MEchanics Toolkit
