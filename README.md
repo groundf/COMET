@@ -1,3 +1,3 @@
 # COMET 
 
-COntinuum MEchanics Toolkit
+COntinuum MEchanics Toolkit or COntinuum MEccanica E Termodinamica
